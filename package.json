@@ -2,10 +2,10 @@
   "name": "web-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://withshoya.github.io/SOVINTO/",
+  "homepage": "https://withshoya.github.io/DIPLOMA/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/withShoya/SOVINTO.git"
+    "url": "git+https://github.com/withShoya/DIPLOMA.git"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.8.8",
