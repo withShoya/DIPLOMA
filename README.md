@@ -1,4 +1,4 @@
 # Sovinto Shop
 
-[Ссылка для просмотра](https://withshoya.github.io/SOVINTO/)
+[Ссылка для просмотра](https://withshoya.github.io/DIPLOMA/)
 
